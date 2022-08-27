@@ -1,0 +1,17 @@
+C:\Users\Darko\source\repos\WebAPIClass\WebApiClass.Mappers\obj\Debug\net6.0\WebApiClass.Mappers.csproj.AssemblyReference.cache
+C:\Users\Darko\source\repos\WebAPIClass\WebApiClass.Mappers\obj\Debug\net6.0\WebApiClass.Mappers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darko\source\repos\WebAPIClass\WebApiClass.Mappers\obj\Debug\net6.0\WebApiClass.Mappers.AssemblyInfoInputs.cache
+C:\Users\Darko\source\repos\WebAPIClass\WebApiClass.Mappers\obj\Debug\net6.0\WebApiClass.Mappers.AssemblyInfo.cs
+C:\Users\Darko\source\repos\WebAPIClass\WebApiClass.Mappers\obj\Debug\net6.0\WebApiClass.Mappers.csproj.CoreCompileInputs.cache
+C:\Users\Darko\source\repos\WebAPIClass\WebApiClass.Mappers\bin\Debug\net6.0\WebApiClass.Mappers.deps.json
+C:\Users\Darko\source\repos\WebAPIClass\WebApiClass.Mappers\bin\Debug\net6.0\WebApiClass.Mappers.dll
+C:\Users\Darko\source\repos\WebAPIClass\WebApiClass.Mappers\bin\Debug\net6.0\WebApiClass.Mappers.pdb
+C:\Users\Darko\source\repos\WebAPIClass\WebApiClass.Mappers\bin\Debug\net6.0\WebApiClass.DBModels.dll
+C:\Users\Darko\source\repos\WebAPIClass\WebApiClass.Mappers\bin\Debug\net6.0\WebApiClass.InterfaceModels.dll
+C:\Users\Darko\source\repos\WebAPIClass\WebApiClass.Mappers\bin\Debug\net6.0\WebApiClass.DBModels.pdb
+C:\Users\Darko\source\repos\WebAPIClass\WebApiClass.Mappers\bin\Debug\net6.0\WebApiClass.InterfaceModels.pdb
+C:\Users\Darko\source\repos\WebAPIClass\WebApiClass.Mappers\obj\Debug\net6.0\WebApiClass.Mappers.csproj.CopyComplete
+C:\Users\Darko\source\repos\WebAPIClass\WebApiClass.Mappers\obj\Debug\net6.0\WebApiClass.Mappers.dll
+C:\Users\Darko\source\repos\WebAPIClass\WebApiClass.Mappers\obj\Debug\net6.0\refint\WebApiClass.Mappers.dll
+C:\Users\Darko\source\repos\WebAPIClass\WebApiClass.Mappers\obj\Debug\net6.0\WebApiClass.Mappers.pdb
+C:\Users\Darko\source\repos\WebAPIClass\WebApiClass.Mappers\obj\Debug\net6.0\ref\WebApiClass.Mappers.dll

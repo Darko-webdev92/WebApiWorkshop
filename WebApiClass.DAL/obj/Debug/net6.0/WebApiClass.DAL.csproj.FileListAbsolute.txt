@@ -1,0 +1,17 @@
+C:\Users\Darko\source\repos\WebAPIClass\WebApiClass.DAL\bin\Debug\net6.0\WebApiClass.DAL.deps.json
+C:\Users\Darko\source\repos\WebAPIClass\WebApiClass.DAL\bin\Debug\net6.0\WebApiClass.DAL.dll
+C:\Users\Darko\source\repos\WebAPIClass\WebApiClass.DAL\bin\Debug\net6.0\WebApiClass.DAL.pdb
+C:\Users\Darko\source\repos\WebAPIClass\WebApiClass.DAL\obj\Debug\net6.0\WebApiClass.DAL.csproj.AssemblyReference.cache
+C:\Users\Darko\source\repos\WebAPIClass\WebApiClass.DAL\obj\Debug\net6.0\WebApiClass.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darko\source\repos\WebAPIClass\WebApiClass.DAL\obj\Debug\net6.0\WebApiClass.DAL.AssemblyInfoInputs.cache
+C:\Users\Darko\source\repos\WebAPIClass\WebApiClass.DAL\obj\Debug\net6.0\WebApiClass.DAL.AssemblyInfo.cs
+C:\Users\Darko\source\repos\WebAPIClass\WebApiClass.DAL\obj\Debug\net6.0\WebApiClass.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Darko\source\repos\WebAPIClass\WebApiClass.DAL\obj\Debug\net6.0\WebApiClass.DAL.dll
+C:\Users\Darko\source\repos\WebAPIClass\WebApiClass.DAL\obj\Debug\net6.0\refint\WebApiClass.DAL.dll
+C:\Users\Darko\source\repos\WebAPIClass\WebApiClass.DAL\obj\Debug\net6.0\WebApiClass.DAL.pdb
+C:\Users\Darko\source\repos\WebAPIClass\WebApiClass.DAL\obj\Debug\net6.0\ref\WebApiClass.DAL.dll
+C:\Users\Darko\source\repos\WebAPIClass\WebApiClass.DAL\bin\Debug\net6.0\WebApiClass.DBModels.dll
+C:\Users\Darko\source\repos\WebAPIClass\WebApiClass.DAL\bin\Debug\net6.0\WebApiClass.InterfaceModels.dll
+C:\Users\Darko\source\repos\WebAPIClass\WebApiClass.DAL\bin\Debug\net6.0\WebApiClass.DBModels.pdb
+C:\Users\Darko\source\repos\WebAPIClass\WebApiClass.DAL\bin\Debug\net6.0\WebApiClass.InterfaceModels.pdb
+C:\Users\Darko\source\repos\WebAPIClass\WebApiClass.DAL\obj\Debug\net6.0\WebApiClass.DAL.csproj.CopyComplete

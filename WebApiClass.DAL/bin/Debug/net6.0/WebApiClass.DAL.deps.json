@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "WebApiClass.DAL/1.0.0": {
+        "dependencies": {
+          "WebApiClass.DBModels": "1.0.0",
+          "WebApiClass.InterfaceModels": "1.0.0"
+        },
+        "runtime": {
+          "WebApiClass.DAL.dll": {}
+        }
+      },
+      "WebApiClass.DBModels/1.0.0": {
+        "runtime": {
+          "WebApiClass.DBModels.dll": {}
+        }
+      },
+      "WebApiClass.InterfaceModels/1.0.0": {
+        "runtime": {
+          "WebApiClass.InterfaceModels.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WebApiClass.DAL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WebApiClass.DBModels/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WebApiClass.InterfaceModels/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

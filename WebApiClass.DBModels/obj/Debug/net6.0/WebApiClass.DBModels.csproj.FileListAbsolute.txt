@@ -1,0 +1,12 @@
+C:\Users\Darko\source\repos\WebAPIClass\WebApiClass.DBModels\bin\Debug\net6.0\WebApiClass.DBModels.deps.json
+C:\Users\Darko\source\repos\WebAPIClass\WebApiClass.DBModels\bin\Debug\net6.0\WebApiClass.DBModels.dll
+C:\Users\Darko\source\repos\WebAPIClass\WebApiClass.DBModels\bin\Debug\net6.0\WebApiClass.DBModels.pdb
+C:\Users\Darko\source\repos\WebAPIClass\WebApiClass.DBModels\obj\Debug\net6.0\WebApiClass.DBModels.csproj.AssemblyReference.cache
+C:\Users\Darko\source\repos\WebAPIClass\WebApiClass.DBModels\obj\Debug\net6.0\WebApiClass.DBModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darko\source\repos\WebAPIClass\WebApiClass.DBModels\obj\Debug\net6.0\WebApiClass.DBModels.AssemblyInfoInputs.cache
+C:\Users\Darko\source\repos\WebAPIClass\WebApiClass.DBModels\obj\Debug\net6.0\WebApiClass.DBModels.AssemblyInfo.cs
+C:\Users\Darko\source\repos\WebAPIClass\WebApiClass.DBModels\obj\Debug\net6.0\WebApiClass.DBModels.csproj.CoreCompileInputs.cache
+C:\Users\Darko\source\repos\WebAPIClass\WebApiClass.DBModels\obj\Debug\net6.0\WebApiClass.DBModels.dll
+C:\Users\Darko\source\repos\WebAPIClass\WebApiClass.DBModels\obj\Debug\net6.0\refint\WebApiClass.DBModels.dll
+C:\Users\Darko\source\repos\WebAPIClass\WebApiClass.DBModels\obj\Debug\net6.0\WebApiClass.DBModels.pdb
+C:\Users\Darko\source\repos\WebAPIClass\WebApiClass.DBModels\obj\Debug\net6.0\ref\WebApiClass.DBModels.dll

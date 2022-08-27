@@ -1,0 +1,151 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "WebApiClass.DAL/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "WebApiClass.DBModels": "1.0.0",
+          "WebApiClass.InterfaceModels": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/WebApiClass.DAL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/WebApiClass.DAL.dll": {}
+        }
+      },
+      "WebApiClass.DBModels/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/WebApiClass.DBModels.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/WebApiClass.DBModels.dll": {}
+        }
+      },
+      "WebApiClass.InterfaceModels/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/WebApiClass.InterfaceModels.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/WebApiClass.InterfaceModels.dll": {}
+        }
+      },
+      "WebApiClass.Mappers/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "WebApiClass.DBModels": "1.0.0",
+          "WebApiClass.InterfaceModels": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/WebApiClass.Mappers.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/WebApiClass.Mappers.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WebApiClass.DAL/1.0.0": {
+      "type": "project",
+      "path": "../WebApiClass.DAL/WebApiClass.DAL.csproj",
+      "msbuildProject": "../WebApiClass.DAL/WebApiClass.DAL.csproj"
+    },
+    "WebApiClass.DBModels/1.0.0": {
+      "type": "project",
+      "path": "../WebApiClass.DBModels/WebApiClass.DBModels.csproj",
+      "msbuildProject": "../WebApiClass.DBModels/WebApiClass.DBModels.csproj"
+    },
+    "WebApiClass.InterfaceModels/1.0.0": {
+      "type": "project",
+      "path": "../WebApiClass.InterfaceModels/WebApiClass.InterfaceModels.csproj",
+      "msbuildProject": "../WebApiClass.InterfaceModels/WebApiClass.InterfaceModels.csproj"
+    },
+    "WebApiClass.Mappers/1.0.0": {
+      "type": "project",
+      "path": "../WebApiClass.Mappers/WebApiClass.Mappers.csproj",
+      "msbuildProject": "../WebApiClass.Mappers/WebApiClass.Mappers.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "WebApiClass.DAL >= 1.0.0",
+      "WebApiClass.InterfaceModels >= 1.0.0",
+      "WebApiClass.Mappers >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Darko\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Darko\\Desktop\\WebAPIClass\\WebApiClass.Services\\WebApiClass.Services.csproj",
+      "projectName": "WebApiClass.Services",
+      "projectPath": "C:\\Users\\Darko\\Desktop\\WebAPIClass\\WebApiClass.Services\\WebApiClass.Services.csproj",
+      "packagesPath": "C:\\Users\\Darko\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Darko\\Desktop\\WebAPIClass\\WebApiClass.Services\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Darko\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Users\\Darko\\Desktop\\WebAPIClass\\WebApiClass.DAL\\WebApiClass.DAL.csproj": {
+              "projectPath": "C:\\Users\\Darko\\Desktop\\WebAPIClass\\WebApiClass.DAL\\WebApiClass.DAL.csproj"
+            },
+            "C:\\Users\\Darko\\Desktop\\WebAPIClass\\WebApiClass.InterfaceModels\\WebApiClass.InterfaceModels.csproj": {
+              "projectPath": "C:\\Users\\Darko\\Desktop\\WebAPIClass\\WebApiClass.InterfaceModels\\WebApiClass.InterfaceModels.csproj"
+            },
+            "C:\\Users\\Darko\\Desktop\\WebAPIClass\\WebApiClass.Mappers\\WebApiClass.Mappers.csproj": {
+              "projectPath": "C:\\Users\\Darko\\Desktop\\WebAPIClass\\WebApiClass.Mappers\\WebApiClass.Mappers.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
